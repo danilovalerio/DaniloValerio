@@ -13,7 +13,7 @@
 <h3 align="left">Projects Google Play:</h3>
 <p align="left">
 <a href="https://play.google.com/store/apps/details?id=projetos.danilo.carteirasdigitais" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/VaBwQPedo3PGJV_LGf_DWxY92GaSk9OE-4L4S2dWajbgzUR6938CRL62sHRQvP6ULg=s48-rw" alt="https://www.youtube.com/channel/ucfhcu6qwwb4dipyljyqvhtg" height="40" width="40" /></a>
-<a href="https://play.google.com/store/apps//details?id=com.projetos.danilo.pomodor_tech_work" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/j2zU0rHyJ_PV1ywda_nUQhYQ-KZusq6et9tREDhvDq3gyz_wcmSb8wcbFBHLADstvQOB=w240-h480-rw" alt="https://www.youtube.com/channel/ucfhcu6qwwb4dipyljyqvhtg" height="40" width="40" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.projetos.danilo.pomodor_tech_work" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/j2zU0rHyJ_PV1ywda_nUQhYQ-KZusq6et9tREDhvDq3gyz_wcmSb8wcbFBHLADstvQOB=w240-h480-rw" alt="https://www.youtube.com/channel/ucfhcu6qwwb4dipyljyqvhtg" height="40" width="40" /></a>
 <a href="https://play.google.com/store/apps/details?id=projetos.danilo.todolist" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/9xPYhHN7BEsrv8dQbyxuNTcjo_Iq9P0l92H9nl_1G-c67TRoPyNWVWLRGJnopnU4-sg=w240-h480-rw" alt="https://www.youtube.com/channel/ucfhcu6qwwb4dipyljyqvhtg" height="40" width="40" /></a>
 </p>
 

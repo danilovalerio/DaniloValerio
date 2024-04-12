@@ -1,7 +1,13 @@
 <!--
 **danilovalerio/DaniloValerio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <h1 align="center">Hi 👋, I'm Danilo Valério da Silva</h1>
-<h5 align="justify">Bacharel em Sistemas de Informação, apaixonado por educação e tecnologia, atuei durante 12 anos como docente de formação profissional e treinamento em softwares, dos quais 7 numa ONG parceira do SENAI, e os outros 5 em instituição privada, além desse tempo elaborando materiais de aprendizagem, organizando conteúdos programáticos; Há aproximadamente mais de 5 anos venho atuando na análise e desenvolvimento de software passando por diversas linguagens de programação, marcação e de base de dados, atualmente estou na área de desenvolvimento mobile com o Android Nativo, inicialmente foi com Java, posteriormente seguindo com Kotlin e o uso do kit de ferramentas Jetpack Compose para acelerar o desenvolvimento, em paralelo para aprendizagem através de projetos próprios realizo desenvolvimento de aplicações em Flutter entre APIs RestFull.</h5>
+<h5 align="justify">Sou um Bacharel em Sistemas de Informação apaixonado por tecnologia e educação. Durante bons anos, tive o privilégio de atuar como docente de formação profissional e treinamento em softwares. Minha jornada incluiu colaborações com uma ONG parceira do SENAI e diversas instituições privadas. Elaborei materiais de aprendizagem, organizei conteúdos programáticos e compartilhei conhecimento com entusiasmo.
+
+Nos últimos 5 anos, mergulhei na análise e desenvolvimento de software, explorando uma variedade de linguagens de programação, marcação e bancos de dados. MySQL, PostgreSQL, Microsoft SQL e NoSQL são apenas algumas das ferramentas que domino. Além disso, atuo no desenvolvimento mobile nativo, utilizando Android, Kotlin, Java e Jetpack Compose. Também trabalho com o Framework Angular, Spring Boot, tanto em Java quanto em Kotlin. 
+
+E, claro, não poderia deixar de mencionar minha afinidade com o JavaScript.
+
+Além das experiências profissionais, também me dedico a projetos particulares, sempre buscando ampliar meu conhecimento e abraçar novas linguagens e tecnologias. Afinal, a evolução é constante!</h5>
 
 - 📫 **danilo_vs@hotmail.com**
 <p align="left">

@@ -1,7 +1,7 @@
 <!--
 **danilovalerio/DaniloValerio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <h1 align="center">Hi 👋, I'm Danilo Valério da Silva</h1>
-<h5 align="justify">Sou um Bacharel em Sistemas de Informação apaixonado por tecnologia e educação. Durante bons anos, tive o privilégio de atuar como docente de formação profissional e treinamento em softwares. Minha jornada incluiu colaborações com uma ONG parceira do SENAI e diversas instituições privadas. Elaborei materiais de aprendizagem, organizei conteúdos programáticos e compartilhei conhecimento com entusiasmo.
+<h5 align="justify">Sou Bacharel em Sistemas de Informação apaixonado por tecnologia e educação. Durante bons anos, tive o privilégio de atuar como docente de formação profissional e treinamento em softwares. Minha jornada incluiu colaborações com uma ONG parceira do SENAI e diversas instituições privadas. Elaborei materiais de aprendizagem, organizei conteúdos programáticos e compartilhei conhecimento com entusiasmo.
 
 Nos últimos 5 anos, mergulhei na análise e desenvolvimento de software, explorando uma variedade de linguagens de programação, marcação e bancos de dados. MySQL, PostgreSQL, Microsoft SQL e NoSQL são apenas algumas das ferramentas que domino. Além disso, atuo no desenvolvimento mobile nativo, utilizando Android, Kotlin, Java e Jetpack Compose. Também trabalho com o Framework Angular, Spring Boot, tanto em Java quanto em Kotlin. 
 
